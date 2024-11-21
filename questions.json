@@ -1,0 +1,394 @@
+[
+    {
+        "question": "What is the next number in the sequence: 2, 6, 12, 20, 30?",
+        "choice1": "40",
+        "choice2": "42",
+        "choice3": "50",
+        "choice4": "52",
+        "answer": 2
+    },
+    {
+        "question": "What is the sum of the first 100 natural numbers?",
+        "choice1": "5050",
+        "choice2": "5005",
+        "choice3": "5010",
+        "choice4": "5100",
+        "answer": 1
+    },
+    {
+        "question": "If a person walks at 5 km/hr instead of 4 km/hr, he would have walked 20 km more. What is the actual distance traveled by him?",
+        "choice1": "80 km",
+        "choice2": "100 km",
+        "choice3": "120 km",
+        "choice4": "140 km",
+        "answer": 2
+    },
+    {
+        "question": "A train 100 m long is running at 30 km/hr. In how much time will it pass a bridge 200 m long?",
+        "choice1": "30 seconds",
+        "choice2": "36 seconds",
+        "choice3": "24 seconds",
+        "choice4": "40 seconds",
+        "answer": 2
+    },
+    {
+        "question": "What is the average of the first 50 even numbers?",
+        "choice1": "51",
+        "choice2": "52",
+        "choice3": "50",
+        "choice4": "49",
+        "answer": 1
+    },
+    {
+        "question": "If the cost price of 20 articles is equal to the selling price of 15 articles, what is the profit percentage?",
+        "choice1": "20%",
+        "choice2": "25%",
+        "choice3": "33.33%",
+        "choice4": "50%",
+        "answer": 4
+    },
+    {
+        "question": "What is the compound interest on Rs. 5000 for 2 years at an interest rate of 5% per annum?",
+        "choice1": "Rs. 520.50",
+        "choice2": "Rs. 525.50",
+        "choice3": "Rs. 512.50",
+        "choice4": "Rs. 530.50",
+        "answer": 1
+    },
+    {
+        "question": "If the radius of a circle is doubled, what will be the effect on its area?",
+        "choice1": "Area will be doubled",
+        "choice2": "Area will be quadrupled",
+        "choice3": "Area will remain the same",
+        "choice4": "Area will be halved",
+        "answer": 2
+    },
+    {
+        "question": "A man can row downstream at 6 km/hr and upstream at 4 km/hr. What is the speed of the man in still water?",
+        "choice1": "2 km/hr",
+        "choice2": "4 km/hr",
+        "choice3": "5 km/hr",
+        "choice4": "6 km/hr",
+        "answer": 3
+    },
+    {
+        "question": "A shopkeeper sold an article at a loss of 20%. If the cost price of the article was Rs. 500, what was the selling price?",
+        "choice1": "Rs. 400",
+        "choice2": "Rs. 450",
+        "choice3": "Rs. 480",
+        "choice4": "Rs. 500",
+        "answer": 1
+    },
+    {
+        "question": "What is the simple interest on Rs. 2000 for 3 years at an annual rate of 5%?",
+        "choice1": "Rs. 300",
+        "choice2": "Rs. 310",
+        "choice3": "Rs. 320",
+        "choice4": "Rs. 330",
+        "answer": 1
+    },
+    {
+        "question": "If a train travels 60 km in 1.5 hours, what is its speed?",
+        "choice1": "30 km/hr",
+        "choice2": "40 km/hr",
+        "choice3": "50 km/hr",
+        "choice4": "60 km/hr",
+        "answer": 2
+    },
+    {
+        "question": "What is the perimeter of a rectangle with length 20 cm and width 10 cm?",
+        "choice1": "30 cm",
+        "choice2": "40 cm",
+        "choice3": "50 cm",
+        "choice4": "60 cm",
+        "answer": 3
+    },
+    {
+        "question": "If the ratio of two numbers is 3:4 and their sum is 35, what is the smaller number?",
+        "choice1": "12",
+        "choice2": "15",
+        "choice3": "18",
+        "choice4": "21",
+        "answer": 2
+    },
+    {
+        "question": "A person spends 40% of his income on rent, 30% on food, and the rest on savings. If his income is Rs. 5000, how much does he save?",
+        "choice1": "Rs. 1000",
+        "choice2": "Rs. 1200",
+        "choice3": "Rs. 1500",
+        "choice4": "Rs. 1800",
+        "answer": 1
+    },
+    {
+        "question": "What is the value of x if 2x - 4 = 10?",
+        "choice1": "3",
+        "choice2": "5",
+        "choice3": "7",
+        "choice4": "9",
+        "answer": 3
+    },
+    {
+        "question": "If the selling price of an article is Rs. 240 and the loss percentage is 20%, what is the cost price?",
+        "choice1": "Rs. 300",
+        "choice2": "Rs. 250",
+        "choice3": "Rs. 280",
+        "choice4": "Rs. 320",
+        "answer": 1
+    },
+    {
+        "question": "What is the least common multiple (LCM) of 6, 8, and 12?",
+        "choice1": "24",
+        "choice2": "48",
+        "choice3": "36",
+        "choice4": "72",
+        "answer": 2
+    },
+    {
+        "question": "A man bought a book for Rs. 500 and sold it at a profit of 20%. What was the selling price?",
+        "choice1": "Rs. 550",
+        "choice2": "Rs. 600",
+        "choice3": "Rs. 700",
+        "choice4": "Rs. 750",
+        "answer": 2
+    },
+    {
+        "question": "What is the square root of 144?",
+        "choice1": "10",
+        "choice2": "11",
+        "choice3": "12",
+        "choice4": "13",
+        "answer": 3
+    },
+    {
+        "question": "If a person invests Rs. 8000 at 5% per annum simple interest, how much will he get after 3 years?",
+        "choice1": "Rs. 9600",
+        "choice2": "Rs. 10000",
+        "choice3": "Rs. 10400",
+        "choice4": "Rs. 10600",
+        "answer": 3
+    },
+    {
+        "question": "If the average of five numbers is 30, what is their sum?",
+        "choice1": "130",
+        "choice2": "140",
+        "choice3": "150",
+        "choice4": "160",
+        "answer": 3
+    },
+    {
+        "question": "What is the value of 3 raised to the power of 4?",
+        "choice1": "27",
+        "choice2": "64",
+        "choice3": "81",
+        "choice4": "243",
+        "answer": 3
+    },
+    {
+        "question": "What is the area of a triangle with base 10 cm and height 5 cm?",
+        "choice1": "25 cm²",
+        "choice2": "30 cm²",
+        "choice3": "35 cm²",
+        "choice4": "40 cm²",
+        "answer": 1
+    },
+    {
+        "question": "A boat travels 20 km downstream in 2 hours and the same distance upstream in 4 hours. What is the speed of the boat in still water?",
+        "choice1": "5 km/hr",
+        "choice2": "6 km/hr",
+        "choice3": "7 km/hr",
+        "choice4": "8 km/hr",
+        "answer": 2
+    },
+    {
+        "question": "What is the cube root of 27?",
+        "choice1": "2",
+        "choice2": "3",
+        "choice3": "4",
+        "choice4": "5",
+        "answer": 2
+    },
+    {
+        "question": "If the perimeter of a square is 40 cm, what is its side length?",
+        "choice1": "10 cm",
+        "choice2": "8 cm",
+        "choice3": "12 cm",
+        "choice4": "16 cm",
+        "answer": 1
+    },
+    {
+        "question": "If the selling price is Rs. 900 and the profit is 20%, what is the cost price?",
+        "choice1": "Rs. 750",
+        "choice2": "Rs. 800",
+        "choice3": "Rs. 850",
+        "choice4": "Rs. 880",
+        "answer": 2
+    },
+    {
+        "question": "What is the difference between the squares of 9 and 7?",
+        "choice1": "32",
+        "choice2": "28",
+        "choice3": "26",
+        "choice4": "24",
+        "answer": 4
+    },
+    {
+        "question": "What is the value of x if 5x + 3 = 23?",
+        "choice1": "3",
+        "choice2": "4",
+        "choice3": "5",
+        "choice4": "6",
+        "answer": 2
+    },
+    {
+        "question": "What is the greatest common divisor (GCD) of 18 and 24?",
+        "choice1": "2",
+        "choice2": "3",
+        "choice3": "6",
+        "choice4": "12",
+        "answer": 3
+    },
+    {
+        "question": "If a car travels 120 km in 3 hours, what is its average speed?",
+        "choice1": "30 km/hr",
+        "choice2": "35 km/hr",
+        "choice3": "40 km/hr",
+        "choice4": "45 km/hr",
+        "answer": 3
+    },
+    {
+        "question": "If the circumference of a circle is 31.4 cm, what is its radius? (Take π = 3.14)",
+        "choice1": "5 cm",
+        "choice2": "6 cm",
+        "choice3": "7 cm",
+        "choice4": "8 cm",
+        "answer": 1
+    },
+    {
+        "question": "What is the value of 7 factorial (7!)?",
+        "choice1": "5040",
+        "choice2": "40320",
+        "choice3": "50400",
+        "choice4": "362880",
+        "answer": 1
+    },
+    {
+        "question": "If a person saves Rs. 200 per month, how much will he save in 5 years?",
+        "choice1": "Rs. 10000",
+        "choice2": "Rs. 12000",
+        "choice3": "Rs. 15000",
+        "choice4": "Rs. 18000",
+        "answer": 3
+    },
+    {
+        "question": "What is the sum of the interior angles of a pentagon?",
+        "choice1": "540 degrees",
+        "choice2": "360 degrees",
+        "choice3": "450 degrees",
+        "choice4": "720 degrees",
+        "answer": 1
+    },
+    {
+        "question": "If a worker is paid Rs. 200 for 8 hours of work, what is his hourly wage?",
+        "choice1": "Rs. 20",
+        "choice2": "Rs. 25",
+        "choice3": "Rs. 30",
+        "choice4": "Rs. 35",
+        "answer": 2
+    },
+    {
+        "question": "A person walks 3 km north, then 4 km east. What is the shortest distance to his starting point?",
+        "choice1": "5 km",
+        "choice2": "7 km",
+        "choice3": "8 km",
+        "choice4": "10 km",
+        "answer": 1
+    },
+    {
+        "question": "What is the value of (a + b)² if a = 2 and b = 3?",
+        "choice1": "25",
+        "choice2": "16",
+        "choice3": "20",
+        "choice4": "30",
+        "answer": 1
+    },
+    {
+        "question": "If 12 men can complete a work in 10 days, how many men are needed to complete it in 6 days?",
+        "choice1": "15",
+        "choice2": "18",
+        "choice3": "20",
+        "choice4": "25",
+        "answer": 2
+    },
+    {
+        "question": "What is the median of the following numbers: 3, 5, 8, 12, 15?",
+        "choice1": "8",
+        "choice2": "9",
+        "choice3": "10",
+        "choice4": "11",
+        "answer": 1
+    },
+    {
+        "question": "If the side of a cube is doubled, what happens to its volume?",
+        "choice1": "It doubles",
+        "choice2": "It triples",
+        "choice3": "It becomes four times",
+        "choice4": "It becomes eight times",
+        "answer": 4
+    },
+    {
+        "question": "If a person earns Rs. 2000 per week, how much does he earn in a year?",
+        "choice1": "Rs. 104000",
+        "choice2": "Rs. 106000",
+        "choice3": "Rs. 108000",
+        "choice4": "Rs. 110000",
+        "answer": 1
+    },
+    {
+        "question": "If the radius of a circle is 7 cm, what is the area? (Take π = 3.14)",
+        "choice1": "144 cm²",
+        "choice2": "154 cm²",
+        "choice3": "164 cm²",
+        "choice4": "174 cm²",
+        "answer": 2
+    },
+    {
+        "question": "If the price of an article is reduced by 10%, it becomes Rs. 450. What was the original price?",
+        "choice1": "Rs. 500",
+        "choice2": "Rs. 480",
+        "choice3": "Rs. 520",
+        "choice4": "Rs. 540",
+        "answer": 1
+    },
+    {
+        "question": "What is the probability of getting a head when a coin is tossed?",
+        "choice1": "0.5",
+        "choice2": "0.6",
+        "choice3": "0.7",
+        "choice4": "0.8",
+        "answer": 1
+    },
+    {
+        "question": "If a number is divisible by both 2 and 3, it is divisible by which of the following?",
+        "choice1": "5",
+        "choice2": "6",
+        "choice3": "8",
+        "choice4": "9",
+        "answer": 2
+    },
+    {
+        "question": "What is the next prime number after 7?",
+        "choice1": "9",
+        "choice2": "10",
+        "choice3": "11",
+        "choice4": "13",
+        "answer": 3
+    },
+    {
+        "question": "If a person buys 3 pens for Rs. 15, how much would he pay for 7 pens?",
+        "choice1": "Rs. 30",
+        "choice2": "Rs. 35",
+        "choice3": "Rs. 40",
+        "choice4": "Rs. 45",
+        "answer": 2
+    }
+]
